@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a French computer science student, trying to involve my competences every day. Feel free to check my repositories, there are maybe some that aren't finished yet, i'm working on don't worry.</p>
+<p align="left">A Computer Science student who loves Linux</p>
 
 ###
 
